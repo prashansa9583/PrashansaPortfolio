@@ -27,7 +27,7 @@ export const Banner = () => {
   
   return (
     <section className="banner" id="home">
-      <video autoPlay loop muted>
+      <video autoPlay loop muted preload="auto">
         <source src={backgroundVideo} type="video/mp4" />
         Your browser does not support the video tag.
       </video>
