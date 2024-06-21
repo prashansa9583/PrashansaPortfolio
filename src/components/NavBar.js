@@ -3,7 +3,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/nav-icon2.svg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
-import Resume from '../assets/img/PrashansaErande1021169.pdf';
+import Resume from '../assets/img/PrashansaErande_June2024';
 const NavBar = () => {
     const [activeLink, setActiveLink] = useState('home');
     const [scrolled, setScrolled] = useState(false);
