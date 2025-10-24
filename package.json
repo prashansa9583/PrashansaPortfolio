@@ -1,7 +1,7 @@
 {
-  "homepage": "https://prashansa9583.github.io/PrashansaPortolio",
-  "name": "prashansaportfolio",
+  "name": "prashportfolio",
   "version": "0.1.0",
+  "homepage": "https://prashansa9583.github.io/PrashansaPortfolio/", 
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
