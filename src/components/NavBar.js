@@ -47,7 +47,6 @@ const NavBar = () => {
               <div className="social-icon">
               <a href="https://www.linkedin.com/in/prashansa-erande"><img src={navIcon1} alt="" /></a>
                 <a href="https://github.com/prashansa9583"><img src={navIcon2} alt="" /></a>
-
               </div>
             </span>
           </Navbar.Collapse>
